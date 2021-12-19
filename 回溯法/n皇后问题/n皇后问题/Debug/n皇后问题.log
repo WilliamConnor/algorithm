@@ -1,0 +1,7 @@
+﻿  n皇后问题.cpp
+D:\C++Code\algorithm\回溯法\n皇后问题\n皇后问题\n皇后问题.cpp(17,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++Code\algorithm\回溯法\n皇后问题\n皇后问题\n皇后问题.cpp(23,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++Code\algorithm\回溯法\n皇后问题\n皇后问题\n皇后问题.cpp(23,55): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++Code\algorithm\回溯法\n皇后问题\n皇后问题\n皇后问题.cpp(86,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\C++Code\algorithm\回溯法\n皇后问题\n皇后问题\n皇后问题.cpp(89,21): warning C4018: “<”: 有符号/无符号不匹配
+  n皇后问题.vcxproj -> D:\C++Code\algorithm\回溯法\n皇后问题\Debug\n皇后问题.exe
